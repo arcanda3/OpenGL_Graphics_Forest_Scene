@@ -3,10 +3,7 @@
 ## Overview
 This project is a forest scene animation created using OpenGL. It features a dynamic, animated forest environment with trees, bushes, rocks, and animals, including deer, cats, and a bear. The scene includes custom shaders for animations, multitextured objects, and vertex buffer objects for optimized rendering.
 
-<img src="assets/Screenshot1.png" alt="Screenshot 1" width="200" />
-<img src="assets/Screenshot5.png" alt="Screenshot 5" width="200" />
-<img src="assets/Screenshot4.png" alt="Screenshot 4" width="200" />
-<img src="assets/Screenshot6.png" alt="Screenshot 6" width="200" />
+<img src="assets/Screenshot1.png" alt="Screenshot 1" width="200" /> <img src="assets/Screenshot5.png" alt="Screenshot 5" width="200" /> <img src="assets/Screenshot4.png" alt="Screenshot 4" width="200" /> <img src="assets/Screenshot6.png" alt="Screenshot 6" width="200" />
 
 ## Scene Description
 The scene simulates a forest environment with dynamic interactions between animals. As the animation progresses, the following happens:
