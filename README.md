@@ -47,9 +47,7 @@ Static objects like trees, bushes, and rocks are rendered using vertex buffer ob
 ## Showcase  
 
 Check out the project in action:  
-<iframe width="600" height="338" src="https://www.youtube.com/embed/f0XNk_Sapnk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+[![Watch the video](https://img.youtube.com/vi/f0XNk_Sapnk/maxresdefault.jpg)](https://youtu.be/f0XNk_Sapnk)
 
 ## Acknowledgments
 This project was developed as part of the CS 450 Computer Graphics class at Oregon State University, using a skeleton program provided by Professor Mike Bailey.
